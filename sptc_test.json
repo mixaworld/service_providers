@@ -1,6 +1,8 @@
 [
-    {"name":"Bashise Gama", "phone":"7894455*", "logo":"http://www.sptc.co.sz/logo/sptc.jpg"},
-    {"name":"Simon Pele", "phone":"*7893322", "logo":"http://www.sptc.co.sz/logo/sptc.jpg"},
-    {"name":"Xolani Bhengu", "phone":"7891100", "logo":"http://www.sptc.co.sz/logo/sptc.jpg"},
-    {"name":"Sibusiso Manana", "phone":"7890000*", "logo":"http://www.sptc.co.sz/logo/sptc.jpg"}
+    {"name":"Bashise Gama", "phone":"7894455", "email":"bashise.gama@sptc.co.sz", "logo":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png"},
+    {"name":"Simon Pele", "phone":"*7893322", "email":"simon.pele@sptc.co.sz", "logo":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png"},
+    {"name":"Xolani Bhengu", "phone":"7891100", "email":"xolani.bhengu@sptc.co.sz", "logo":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png"},
+    {"name":"Sibusiso Manana", "phone":"7890000", "email":"sibusiso.manana@sptc.co.sz", "logo":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png"}
 ]
+
+
